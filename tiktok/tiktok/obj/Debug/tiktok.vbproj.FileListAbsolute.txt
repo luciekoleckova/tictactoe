@@ -1,0 +1,12 @@
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\obj\Debug\tiktok.vbprojAssemblyReference.cache
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\obj\Debug\tiktok.Resources.resources
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\obj\Debug\tiktok.vbproj.GenerateResource.cache
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\tiktok.exe.config
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\obj\Debug\tiktok.exe
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\obj\Debug\tiktok.xml
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\obj\Debug\tiktok.pdb
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\tiktok.exe
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\tiktok.pdb
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\tiktok.xml
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\obj\Debug\tiktok.Tiktok.resources
+C:\Users\kolecko\Desktop\tiktok\tiktok\tiktok\obj\Debug\tiktok.vbproj.CoreCompileInputs.cache
